@@ -1,6 +1,6 @@
 # Luminar Learning — 1-on-1 Tuition Discovery & Academic Mentorship Platform
 ### 🌐 Live Demo & Interactive App
-- **Live Vercel Application:** [[https://your-project.vercel.app](https://your-project.vercel.app)](https://luminar-learning-edtech-n6amj0az8-zoha-naeem.vercel.app/)
+- **Live Vercel Application:** (https://luminar-learning-edtech-n6amj0az8-zoha-naeem.vercel.app/)
 
 > **"Illuminating Potential Through Guided 1-on-1 Tuition."**
 >
