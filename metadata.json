@@ -2,5 +2,7 @@
   "name": "Luminar Learning",
   "description": "Premium 1-on-1 in-home and live online tuition platform. Verified academic specialists for Primary, GCSE, O/A Levels, IB, and Competitive Exams.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
